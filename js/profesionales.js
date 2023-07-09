@@ -3,7 +3,7 @@ const { createApp } = Vue
         data() {
             return {
                 profesionales:[],
-                url:'http://vaguuu.pythonanywhere.com/staff',
+                url:'https://vaguuu.pythonanywhere.com/staff',
                 /*atributos para el guardar los valores del formulario */
                 mn:"",
                 nombre:"", 

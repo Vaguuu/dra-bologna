@@ -12,7 +12,7 @@ const { createApp } = Vue
                 correo:"",
                 horarios:"",
                 foto:"",
-                url:'http://vaguuu.pythonanywhere.com/staff/'+mn,
+                url:'https://vaguuu.pythonanywhere.com/staff/'+mn,
             }  
             },
             methods: {
